@@ -1,0 +1,33 @@
+
+#contain {
+    background-color: dimgray;
+   
+}
+
+
+
+.display-4 {
+    font-family: Georgia;
+    font-weight: bold;
+}
+
+.lead {
+    font-family: Georgia;
+}
+
+.card-img-top {
+    width: 100%
+}
+
+.contact-section {
+font-family: Georgia;
+text-align: center;
+
+}
+
+.footer {
+    background-color: darkgray;
+    padding-top: 1%;
+    padding-bottom: 1%;
+
+}
